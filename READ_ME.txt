@@ -1,0 +1,1 @@
+Please use JDBC for connecting database to this project. All the commands are already written in the main file, just put the main file and jdbc driver in the same folder so that it can run with no error.
