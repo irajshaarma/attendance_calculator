@@ -4,3 +4,4 @@ java -cp .;mysql-connector-j-9.4.0.jar AttendanceCalculator
 Run this program with the above commands, first one to compile and load the jdbc driver successfully, and second one to run the program.
 Enjoy and track your attendance.
 UI and front end is in working and will be uploaded soon.
+Following is the link to download JDBC Dirver, click on "no thanks, just download" at bottom of the page -> https://dev.mysql.com/downloads/file/?id=544513
